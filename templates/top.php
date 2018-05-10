@@ -12,7 +12,7 @@
   <!-- FAVICON -->
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/css/base.css"/>
+  <link rel="stylesheet" href="css/base.css"/>
   <!-- CSS -->
 
   <!-- OTHER STUFF -->

@@ -7,7 +7,7 @@
   <p class="title">Hello, my name is Alex Sawyer. Here are some of my projects /
   things that I have done.</p>
 
-<img class="border" src="/img/border.png"/>
+<img class="border" src="img/border.png"/>
 
   <div id="content_wrapper">
     <div id="boxes">
