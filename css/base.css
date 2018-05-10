@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Helvetica;
+}
+
+body {
+  display: block;
+  text-align: center;
+}
+
+#body_wrapper {
+  max-width: 960px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.title {
+  padding-bottom: 10px;
+  padding-left: 280px;
+  padding-right: 280px;
+  font-size: 17px;
+  color: gray;
+}
+
+.social {
+  display: inline;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.social img {
+  width: 50px;
+  height: 50px;
+}
+
+.border {
+  height: 1px;
+  width: 50px;
+  padding-bottom: 10px;
+}
+#bottom_border {
+  padding-top: 10px;
+}

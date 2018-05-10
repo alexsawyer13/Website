@@ -1,0 +1,7 @@
+<?php $title = "Home"; include("templates/top.php"); ?>
+<!-- HEAD STUFF -->
+<?php include("templates/header.php"); ?>
+<!-- INTRODUCTION STUFF --><!-- <p class="title"></p> -->
+<img class="border" src="/img/border.png"/>
+<!-- CONTENT STUFF -->
+<?php include("templates/bottom.php"); ?>

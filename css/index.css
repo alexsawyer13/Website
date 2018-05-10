@@ -1,0 +1,30 @@
+#content_wrapper {
+  text-align: center;
+}
+
+#boxes .box {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 90px;
+  border: 2px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#boxes a {
+  color: black;
+  text-decoration: none;
+}
+
+#texts .text {
+  display: inline-flex;
+  width: 204px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+#texts .text p {
+  text-align: left;
+}

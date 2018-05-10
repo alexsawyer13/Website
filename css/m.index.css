@@ -1,0 +1,31 @@
+#content_wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#boxes .box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 90px;
+  border: 2px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#boxes a {
+  color: black;
+  text-decoration: none;
+}
+
+#boxes .text {
+  width: 204px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+#boxes .text p {
+  text-align: left;
+}
